@@ -1,4 +1,4 @@
-Employee Details Using Array of Structures
+//Employee Details Using Array of Structures
 
 #include <stdio.h>
 struct Employee
